@@ -31,7 +31,7 @@ function Login() {
                                 </div>
 
                                 <Link to={'/home'} id="submit" >
-                                    Sign In now
+                                    Sign In with git
                                 </Link>
 
                               <div className='foo'>Don't Have An Account?  &nbsp; <Link className='lin' to={"/register"}>Register Here!</Link></div>

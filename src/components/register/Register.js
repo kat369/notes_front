@@ -30,7 +30,7 @@ function Register() {
                                 </div>
 
                                 <button id="submit" >
-                                    Sign Up
+                                    Sign Up with git
                                 </button>
 
                               <div className='foo'>Already Have An Account?  &nbsp; <Link className='lin' to={"/"}>Login Here!</Link></div>
